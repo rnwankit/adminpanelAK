@@ -1,0 +1,70 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "ABCD",
+      "price": 100,
+      "quantity": 500,
+      "expiry": 2025
+    },
+    {
+      "id": 2,
+      "name": "PQR",
+      "price": 100,
+      "quantity": 500,
+      "expiry": 2025
+    },
+    {
+      "id": 3,
+      "name": "MNP",
+      "price": 100,
+      "quantity": 500,
+      "expiry": 2025
+    },
+    {
+      "id": 4,
+      "name": "XYZ",
+      "price": 100,
+      "quantity": 500,
+      "expiry": 2025
+    },
+    {
+      "id": 225,
+      "name": "FETCHDEMO",
+      "price": "1",
+      "quantity": "2",
+      "expiry": "3"
+    },
+    {
+      "id": 213,
+      "name": "DEMO123",
+      "price": "1",
+      "quantity": "2",
+      "expiry": "3"
+    },
+    {
+      "id": 236,
+      "name": "ABCD123",
+      "price": "1",
+      "quantity": "2",
+      "expiry": "3"
+    },
+    {
+      "id": 9,
+      "name": "jhgvkvbkj",
+      "price": "5",
+      "quantity": "6",
+      "expiry": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
